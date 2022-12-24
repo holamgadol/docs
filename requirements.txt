@@ -7,6 +7,7 @@ foliantcontrib.mkdocs >= 1.0.13
 foliantcontrib.pandoc == 1.0.11
 foliantcontrib.superlinks >= 1.0.11
 foliantcontrib.yaml_include >= 1.0.0
-mkdocs-material == 8.2.14
-mkdocs-material-extensions == 1.0.3
+mkdocs-material == 8.5.10
+mkdocs-material-extensions == 1.1.1
 Jinja2 == 3.1.2
+mkdocs-static-i18n

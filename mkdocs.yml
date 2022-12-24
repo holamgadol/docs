@@ -33,7 +33,6 @@ theme:
     features:
         - search.suggest
         - search.highlight
-        - navigation.instant
         - navigation.top
 
 
@@ -52,6 +51,20 @@ plugins:
     - search:
         lang:
           - en
+    - i18n:
+        default_language: en
+        languages:
+            en:
+                name: English
+                build: true
+            ru:
+                name: Русский
+                build: true
+        nav_translations:
+            ru:
+                Tutorials: Инструкции
+                Documenting Databases with Foliant: Документирование баз данных Фолиантом
+                Installing and Testing: Установка и тестирование
 
 markdown_extensions:
     - def_list

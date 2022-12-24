@@ -11,6 +11,7 @@ chapters:
         - tutorials/first_project.md
         - tutorials/docker.md
         - tutorials/api.md
+        - tutorials/gost.ru.md
         - Documenting Databases with Foliant:
             - tutorials/db/db.md
             - tutorials/db/dbml.md
